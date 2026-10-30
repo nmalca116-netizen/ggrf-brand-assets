@@ -1,0 +1,32 @@
+{
+  "index.html": {
+    "mtime": 1793316687.3710914,
+    "seen": 1793318325.9831686,
+    "ast_hash": "10bf15c83d002b492697d3ca8da53a1b",
+    "semantic_hash": "10bf15c83d002b492697d3ca8da53a1b"
+  },
+  "signature.html": {
+    "mtime": 1793316687.3710914,
+    "seen": 1793318325.9831734,
+    "ast_hash": "10bf15c83d002b492697d3ca8da53a1b",
+    "semantic_hash": "10bf15c83d002b492697d3ca8da53a1b"
+  },
+  "template-after.html": {
+    "mtime": 1793316687.3710914,
+    "seen": 1793318325.983176,
+    "ast_hash": "45c0814554272b8a0e4a1b7cd5c59509",
+    "semantic_hash": "45c0814554272b8a0e4a1b7cd5c59509"
+  },
+  "template-before.html": {
+    "mtime": 1793316687.3710914,
+    "seen": 1793318325.9831774,
+    "ast_hash": "69958e865fb3e5e86855e8071a5460d7",
+    "semantic_hash": "69958e865fb3e5e86855e8071a5460d7"
+  },
+  "template.html": {
+    "mtime": 1793316687.3710914,
+    "seen": 1793318325.9831789,
+    "ast_hash": "05ced5faa978223377a6f52f3ba114fd",
+    "semantic_hash": "05ced5faa978223377a6f52f3ba114fd"
+  }
+}

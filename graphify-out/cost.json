@@ -1,0 +1,13 @@
+{
+  "runs": [
+    {
+      "date": "2026-10-29T23:51:37.490396+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 12,
+      "note": "semantic extraction by the Computer model in-session; tokens not metered (0 = not measured)"
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}
